@@ -1,0 +1,17 @@
+{
+  "name": "AngularBase",
+  "homepage": "https://github.com/EddieMaster/AngularBase",
+  "authors": [
+    "Eddie Mejia <eddiejoel19@gmail.com>"
+  ],
+  "description": "Estructura de Proyecto Front End",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

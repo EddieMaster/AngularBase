@@ -1,0 +1,33 @@
+.header{
+    height: 40px;
+    background-color: #6eb5f3;
+    border-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.home{
+    height:500px;
+    background-color: #54100e;
+    color:white;
+    text-align: center;
+}
+
+.footer{
+    height:40px;
+    background-color: gray;
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.page1{
+    height:500px;
+    background-color: #020754;
+    color:white;
+    text-align: center;
+}
+
+.flecha{
+    cursor: pointer;
+}

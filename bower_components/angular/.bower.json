@@ -1,0 +1,14 @@
+{
+  "name": "EddieMasterAngularmin",
+  "homepage": "https://github.com/EddieMaster/bower-angular-min",
+  "_release": "206be9256a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "206be9256ac33d82a86242a2e4c4d6773cc216c6"
+  },
+  "_source": "https://github.com/EddieMaster/bower-angular-min.git",
+  "_target": "*",
+  "_originalSource": "EddieMasterAngularmin",
+  "_direct": true
+}
